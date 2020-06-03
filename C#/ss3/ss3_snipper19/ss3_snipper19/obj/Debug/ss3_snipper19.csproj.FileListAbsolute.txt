@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper19\ss3_snipper19\bin\Debug\ss3_snipper19.exe.config
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper19\ss3_snipper19\bin\Debug\ss3_snipper19.exe
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper19\ss3_snipper19\bin\Debug\ss3_snipper19.pdb
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper19\ss3_snipper19\obj\Debug\ss3_snipper19.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper19\ss3_snipper19\obj\Debug\ss3_snipper19.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper19\ss3_snipper19\obj\Debug\ss3_snipper19.exe
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper19\ss3_snipper19\obj\Debug\ss3_snipper19.pdb

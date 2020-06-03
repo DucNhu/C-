@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper7\ss3_snipper7\bin\Debug\ss3_snipper7.exe.config
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper7\ss3_snipper7\bin\Debug\ss3_snipper7.exe
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper7\ss3_snipper7\bin\Debug\ss3_snipper7.pdb
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper7\ss3_snipper7\obj\Debug\ss3_snipper7.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper7\ss3_snipper7\obj\Debug\ss3_snipper7.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper7\ss3_snipper7\obj\Debug\ss3_snipper7.exe
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper7\ss3_snipper7\obj\Debug\ss3_snipper7.pdb

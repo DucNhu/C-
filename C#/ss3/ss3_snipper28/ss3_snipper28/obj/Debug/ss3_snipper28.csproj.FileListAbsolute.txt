@@ -1,0 +1,6 @@
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper28\ss3_snipper28\obj\Debug\ss3_snipper28.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper28\ss3_snipper28\bin\Debug\ss3_snipper28.exe.config
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper28\ss3_snipper28\bin\Debug\ss3_snipper28.exe
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper28\ss3_snipper28\bin\Debug\ss3_snipper28.pdb
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper28\ss3_snipper28\obj\Debug\ss3_snipper28.exe
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper28\ss3_snipper28\obj\Debug\ss3_snipper28.pdb

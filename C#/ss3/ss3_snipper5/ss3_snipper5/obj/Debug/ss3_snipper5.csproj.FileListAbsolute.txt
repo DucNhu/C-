@@ -1,0 +1,6 @@
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper5\ss3_snipper5\bin\Debug\ss3_snipper5.exe.config
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper5\ss3_snipper5\bin\Debug\ss3_snipper5.exe
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper5\ss3_snipper5\bin\Debug\ss3_snipper5.pdb
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper5\ss3_snipper5\obj\Debug\ss3_snipper5.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper5\ss3_snipper5\obj\Debug\ss3_snipper5.exe
+C:\Users\Pc\Desktop\C#\C#\ss3\ss3_snipper5\ss3_snipper5\obj\Debug\ss3_snipper5.pdb
