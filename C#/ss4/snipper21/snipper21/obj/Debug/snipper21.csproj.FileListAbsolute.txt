@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper21\snipper21\bin\Debug\snipper21.exe.config
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper21\snipper21\bin\Debug\snipper21.exe
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper21\snipper21\bin\Debug\snipper21.pdb
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper21\snipper21\obj\Debug\snipper21.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper21\snipper21\obj\Debug\snipper21.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper21\snipper21\obj\Debug\snipper21.exe
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper21\snipper21\obj\Debug\snipper21.pdb

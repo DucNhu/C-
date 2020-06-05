@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper6\snipper6-end\bin\Debug\snipper6-end.exe.config
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper6\snipper6-end\bin\Debug\snipper6-end.exe
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper6\snipper6-end\bin\Debug\snipper6-end.pdb
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper6\snipper6-end\obj\Debug\snipper6-end.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper6\snipper6-end\obj\Debug\snipper6-end.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper6\snipper6-end\obj\Debug\snipper6-end.exe
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper6\snipper6-end\obj\Debug\snipper6-end.pdb

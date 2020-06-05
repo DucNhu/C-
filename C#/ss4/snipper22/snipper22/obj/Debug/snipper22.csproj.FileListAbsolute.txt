@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper22\snipper22\bin\Debug\snipper22.exe.config
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper22\snipper22\bin\Debug\snipper22.exe
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper22\snipper22\bin\Debug\snipper22.pdb
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper22\snipper22\obj\Debug\snipper22.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper22\snipper22\obj\Debug\snipper22.exe
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper22\snipper22\obj\Debug\snipper22.pdb
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper22\snipper22\obj\Debug\snipper22.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper23\snipper23\obj\Debug\snipper23.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper23\snipper23\bin\Debug\snipper23.exe.config
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper23\snipper23\bin\Debug\snipper23.exe
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper23\snipper23\bin\Debug\snipper23.pdb
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper23\snipper23\obj\Debug\snipper23.exe
+C:\Users\Pc\Desktop\C#\C#\ss4\snipper23\snipper23\obj\Debug\snipper23.pdb
